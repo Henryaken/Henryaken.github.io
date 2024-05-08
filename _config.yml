@@ -89,3 +89,13 @@ service-worker: true
 page-mathjax: false
 
 # Friends
+friends: [
+    {
+        title: "japanese foods",
+        href: "https://www.youtube.com/watch?v=7Ta1Pz-3PV4"
+    },
+    {
+        title: "foods",
+        href: "https://www.youtube.com/watch?v=fiaI8cg73_k"
+    }
+]
